@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer • Data Scientist • MLOps & Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FRIEND_GITHUB_USERNAME&label=Profile+views&color=87CEEB&style=plastic&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=InshaKhan6593&label=Profile+views&color=87CEEB&style=plastic&abbreviated=true" />
 </p>
 
 <p align="center">
@@ -136,7 +136,7 @@
 <h2 align="center"> 🌐 Let's Connect </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/insha-khan/" target="_blank">
+  <a href="(https://www.linkedin.com/in/insha-khan-ba00502bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/insha008/" target="_blank">
